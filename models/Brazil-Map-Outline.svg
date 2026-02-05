@@ -1,1 +1,26 @@
-<svg fill="none" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="..."/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1000 1000"
+     width="1000" height="1000">
+  <title>Brazil Outline (stylized)</title>
+
+  <rect x="0" y="0" width="1000" height="1000" fill="none"/>
+
+  <path
+    d="M575,70
+       L660,105 L745,175 L845,250
+       L915,345 L940,455 L910,560
+       L880,650 L820,740 L740,820
+       L660,875 L585,915 L500,940
+       L420,925 L340,890 L275,835
+       L230,760 L185,675 L140,580
+       L120,490 L135,405 L175,330
+       L230,265 L295,210 L360,170
+       L430,135 L505,110 Z"
+    fill="none"
+    stroke="#000000"
+    stroke-width="18"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+</svg>
