@@ -1,3 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" stroke-width="18" fill="none" stroke-linejoin="round" stroke-linecap="round">
-  <!-- SVG content here -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1000 1000"
+     width="1000" height="1000">
+  <title>Texas Outline (stylized)</title>
+
+  <rect x="0" y="0" width="1000" height="1000" fill="none"/>
+
+  <!-- Stylized Texas outline (single closed loop). Stroke only, no fill. -->
+  <path
+    d="M205,250
+       L420,245
+       L425,210 L520,210 L525,245
+       L780,245
+       L785,340
+       L835,415 L890,510
+       L835,575
+       L805,670
+       L690,720
+       L600,840
+       L520,810
+       L485,740
+       L425,705
+       L355,665
+       L305,610
+       L255,540
+       L215,470
+       L205,400 Z"
+    fill="none"
+    stroke="#000000"
+    stroke-width="18"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
 </svg>
